@@ -20,4 +20,6 @@ puts "i added this"
 #######################################
 def my_new_feature
   puts "Hello world"
+
+  return "HELLO"
 end
