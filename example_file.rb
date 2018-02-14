@@ -14,3 +14,12 @@ puts "New feature"
 puts "Does this work?"
 
 puts "i added this"
+
+#######################################
+# New feature on branch
+#######################################
+def my_new_feature
+  puts "Hello world"
+
+  return "HELLO"
+end
