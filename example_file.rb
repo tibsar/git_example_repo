@@ -23,3 +23,13 @@ def my_new_feature
 
   return "HELLO"
 end
+
+
+#######################################
+# New feature on branch
+#######################################
+def todays_new_feature
+  puts "feature 1321312321"
+
+  return "this feature works great"
+end
