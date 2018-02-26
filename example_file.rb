@@ -33,3 +33,10 @@ def todays_new_feature
 
   return "this feature works great"
 end
+
+#######################################
+# Newest feature on branch
+####################################
+def latest_new_feature
+  puts "The latest and greatest feature"
+end
